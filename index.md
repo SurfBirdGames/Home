@@ -2,7 +2,7 @@
 
 **Surf Bird Games, november 2019, version V1**
 
-This privacy policy governs your use of the software application AI Pipe (“Application”) for mobile devices that was created by Surf Bird Games. 
+This privacy policy governs your use of the software application **AI Pipe** (“Application”) for mobile devices that was created by **Surf Bird Games**. 
 
 The Application is a single player, turn based, board type, puzzle game in which the player competes with the computer artificial intelligence (AI). The aim of the game is to connect two opposing sides of the board by placing tiles with pipe sections on the board thus creating a continuous pipe network from one side to the other. The player needs to connect the left- and right hand side of the board, the computer AI needs to connect the top- and bottom sides of the board.
 There are two game modes: 
